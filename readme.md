@@ -21,7 +21,7 @@ psql -h localhost -p 5432 -U postgres -d appdb
 | `-U`     | `postgres`  | Имя пользователя                  |
 | `-d`     | `appdb`     | Имя базы данных                   |
 
-> 💡 Пароль по умолчанию: `postgres`
+> Пароль еще надо ввести
 
 ### Команды
 
